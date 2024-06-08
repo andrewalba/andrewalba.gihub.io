@@ -18,24 +18,20 @@ I love everything about Full-Stack Web Development, Software Architecture, and A
 | The Streak | <a href="https://github.com/denvercoder1/github-readme-streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=andrewalba&background=22272E&border=D65108&stroke=D65108&sideLabels=FFFFFF&currStreakNum=CB2727&sideNums=D65108&currStreakLabel=FFFFFF&dates=FFFFFF"></a> |
 | Trophies | [![trophy](https://github-profile-trophy.vercel.app/?username=andrewalba&theme=dark_lover&column=4&no-frame=true&margin-h=15&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy) |
 
-## General ideology across projects
 
-When I create something that could be helpful for other people,  it's shared publicly with the world (you!)
+## Sharing repositories
 
-### No guarantees when it comes to response times
-
-Since this is something completely done in my freetime, response time (e.g. when I am on vacation etc.) will be sometimes slower.
-Nevertheless, I always try to deliver fast and respond quickly to questions/issues/feedback etc. 
+Hey there, fellow coders! You know that feeling when you create something so cool that you just want to shout it from the rooftops? Well, that's how I feel about some of my work on Github and Bitbucket! Whenever I come up with something that could be helpful to others, I make it my mission to share it with the world. Sure, some of my stuff has been hiding out in private repositories, but fear not, my friends! I'm slowly but surely working to move as much of my work into the public eye as I can. Because let's face it, sharing is caring, and who knows? Maybe my code will help someone else create something even cooler. Let's keep the coding love flowing!
 
 
-### Stale projects wont get deleted
+### Making time for projects
 
-Whenever a project is discontinued, for whatever reason it **will not be deleted** but rather archived. This way you can have confidence that projects maintained by me will not just disappear. Of course also feel free to fork it anyway.
+As much as I wish I could be a superhero and always be available to answer your questions and address any issues, unfortunately, I'm only human. If you don't hear back from me right away, it's probably because I'm off watching a baseball game or hiking somewhere. But fear not, my friends! I promise to always do my best to respond as quickly as I can to any questions, issues, or feedback you may have. Thanks for understanding and keep on coding!
 
 
-### Feature requests
+### Requests for enhancements
 
-Feature requests will be carefully evaluated by me, and I reserve the right to decline requests that either not comply with the overall goal of a project or my opinion.
+Got a feature request? Awesome! I'm all ears. But before you hit that send button, know that I'll be giving it a good, hard think. I'm like a bouncer at the club - I'll only let in the requests that fit the vibe of the project and my personal style. So don't be offended if I have to turn down your request. It's not you, it's me.
 
 
 ## Let me introduce you to my fun-loving avatars!
@@ -44,6 +40,7 @@ Feature requests will be carefully evaluated by me, and I reserve the right to d
 | :-------------------------------------------------------: | :-------------------------------------------: | :-------------------------------------------------------------------------------------------:  |
 | Octocat                                                   | Bitmoji Avatar                              | Current gravatar                                                                               |
 
+
 ## Wanna buy me a coffee?
 
-<a href="https://www.buymeacoffee.com/andrewalba" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+<a href="https://www.buymeacoffee.com/albawebstudio" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
