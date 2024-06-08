@@ -41,9 +41,9 @@ Feature requests will be carefully evaluated by me, and I reserve the right to d
 
 ## Fun (avatar) stuff
 
-| <img width="200" src=".images/octocat.png" alt="Octocat"> | <img width="200" src=".images/southpark.png"> | <img width="200" src="https://www.gravatar.com/avatar/488044edca85e594228146ac9f5da6d5?s=200"> | 
+| <img width="200" src=".images/octocat.png" alt="Octocat"> | <img width="200" src=".images/bitmoji.png"> | <img width="200" src="https://gravatar.com/avatar/5283a6b91ce37dba885173a00e72163d?s=200"> | 
 | :-------------------------------------------------------: | :-------------------------------------------: | :-------------------------------------------------------------------------------------------:  |
-| Octocat                                                   | SouthPark Avatar                              | Current gravatar                                                                               |
+| Octocat                                                   | Bitmoji Avatar                              | Current gravatar                                                                               |
 
 ## Wanna buy me a coffee?
 
