@@ -1,23 +1,23 @@
 # Hi there, I`m [Andrew!](https://andrewalba.com) 🙋
 
-Techie by heart. Full-Stack Web Development, Software Architect and DevOps.
+I love everything about Full-Stack Web Development, Software Architecture, and AWS DevOps (even though I'm still a rookie). Let's code our way to the moon! 🚀
 
-### 💬 Ask me about anything [here](https://github.com/timo-reymann/timo-reymann/discussions/categories/q-a)
+### 💬 Go ahead, [ask me a question](https://github.com/andrewalba/andrewalba.github.io/discussions/categories/q-a) and let's see if I can impress you with my knowledge (or at least make you laugh with a silly answer).
 
-
-## More about me?
+## So what about me?
 
 - [andrewalba.com](https://andrewalba.com) - My personal homepage, contains a musings and reviews
 - [andrewalba.github.io](https://andrewalba.github.io) - My github projects visualized, source can be found [here](https://github.com/andrewalba/andrewalba.github.io)
 
 
-## Fancy stats go here
-| Name | Stat |
-| :--- | :---: |
-| General | <a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card"><img align="center" src="https://github-readme-stats.vercel.app/api?username=andrewalba&cardType=level&bg_color=22272e&text_color=FFFFFF&title_color=D65108&count_private=true&include_all_commits=true&show_icons=true&icon_color=D65108&border_color=D65108&hide_title=true" alt="Andrew's github stats" /></a> | 
-| Languages | <a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewalba&bg_color=22272e&text_color=FFFFFF&title_color=FFFFFF&icon_color=D65108&border_color=D65108&layout=pie&langs_count=10&hide=html,makefile" /></a> |
-| Contribution Streak | <a href="https://github.com/denvercoder1/github-readme-streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=andrewalba&background=22272E&border=D65108&stroke=D65108&sideLabels=FFFFFF&currStreakNum=CB2727&sideNums=D65108&currStreakLabel=FFFFFF&dates=FFFFFF"></a> |
-| Trophies | [![trophy](https://github-profile-trophy.vercel.app/?username=andrewalba&theme=dark_lover&column=4&no-frame=true&margin-h=15&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+## So hold on to your hats, folks, because we're about to dive into some data.
+
+| <a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card"><img align="center" src="https://github-readme-stats.vercel.app/api?username=andrewalba&cardType=level&bg_color=22272e&text_color=FFFFFF&title_color=D65108&count_private=true&include_all_commits=true&show_icons=true&icon_color=D65108&border_color=D65108&hide_title=true" alt="Andrew's github stats" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewalba&bg_color=22272e&text_color=FFFFFF&title_color=FFFFFF&icon_color=D65108&border_color=D65108&layout=pie&langs_count=10&hide=html,makefile" /></a> |
+| <a href="https://github.com/denvercoder1/github-readme-streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=andrewalba&background=22272E&border=D65108&stroke=D65108&sideLabels=FFFFFF&currStreakNum=CB2727&sideNums=D65108&currStreakLabel=FFFFFF&dates=FFFFFF"></a> |
+
+
+| Trophies | [![trophy](https://github-profile-trophy.vercel.app/?username=andrewalba&theme=dark_lover&column=4&no-frame=true&margin-h=15&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy) |
 
 ## General ideology across projects
 
@@ -39,7 +39,7 @@ Whenever a project is discontinued, for whatever reason it **will not be deleted
 Feature requests will be carefully evaluated by me, and I reserve the right to decline requests that either not comply with the overall goal of a project or my opinion.
 
 
-## Fun (avatar) stuff
+## Let me introduce you to my fun-loving avatars!
 
 | <img width="200" src=".images/octocat.png" alt="Octocat"> | <img width="200" src=".images/bitmoji.png"> | <img width="200" src="https://gravatar.com/avatar/5283a6b91ce37dba885173a00e72163d?s=200"> | 
 | :-------------------------------------------------------: | :-------------------------------------------: | :-------------------------------------------------------------------------------------------:  |
