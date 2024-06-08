@@ -2,7 +2,9 @@
 
 I love everything about Full-Stack Web Development, Software Architecture, and AWS DevOps (even though I'm still a rookie). Let's code our way to the moon! 🚀
 
-### 💬 Go ahead, [ask me a question](https://github.com/andrewalba/andrewalba.github.io/discussions/categories/q-a) and let's see if I can impress you with my knowledge (or at least make you laugh with a silly answer).
+## 💬 Go ahead
+
+Feel free to[ask me a question](https://github.com/andrewalba/andrewalba.github.io/discussions/categories/q-a) and let's see if I can impress you with my knowledge (or at least make you laugh with a silly answer).
 
 ## So what about me?
 
