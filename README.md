@@ -4,7 +4,7 @@ I love everything about Full-Stack Web Development, Software Architecture, and A
 
 ## 💬 Go ahead
 
-Feel free to[ask me a question](https://github.com/andrewalba/andrewalba.github.io/discussions/categories/q-a) and let's see if I can impress you with my knowledge (or at least make you laugh with a silly answer).
+Feel free to [ask me a question](https://github.com/andrewalba/andrewalba.github.io/discussions/categories/q-a) and let's see if I can impress you with my knowledge (or at least make you laugh with a silly answer).
 
 ## So what about me?
 
