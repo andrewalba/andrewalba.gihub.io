@@ -11,12 +11,11 @@ I love everything about Full-Stack Web Development, Software Architecture, and A
 
 
 ## So hold on to your hats, folks, because we're about to dive into some data.
-
-| <a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card"><img align="center" src="https://github-readme-stats.vercel.app/api?username=andrewalba&cardType=level&bg_color=22272e&text_color=FFFFFF&title_color=D65108&count_private=true&include_all_commits=true&show_icons=true&icon_color=D65108&border_color=D65108&hide_title=true" alt="Andrew's github stats" /></a> |
-| <a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewalba&bg_color=22272e&text_color=FFFFFF&title_color=FFFFFF&icon_color=D65108&border_color=D65108&layout=pie&langs_count=10&hide=html,makefile" /></a> |
-| <a href="https://github.com/denvercoder1/github-readme-streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=andrewalba&background=22272E&border=D65108&stroke=D65108&sideLabels=FFFFFF&currStreakNum=CB2727&sideNums=D65108&currStreakLabel=FFFFFF&dates=FFFFFF"></a> |
-
-
+| Name | Stat |
+| :--- | :---: |
+| General Stats | <a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card"><img align="center" src="https://github-readme-stats.vercel.app/api?username=andrewalba&cardType=level&bg_color=22272e&text_color=FFFFFF&title_color=D65108&count_private=true&include_all_commits=true&show_icons=true&icon_color=D65108&border_color=D65108&hide_title=true" alt="Andrew's github stats" /></a> | 
+| By Languages | <a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewalba&bg_color=22272e&text_color=FFFFFF&title_color=FFFFFF&icon_color=D65108&border_color=D65108&layout=pie&langs_count=10&hide=html,makefile" /></a> |
+| The Streak | <a href="https://github.com/denvercoder1/github-readme-streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=andrewalba&background=22272E&border=D65108&stroke=D65108&sideLabels=FFFFFF&currStreakNum=CB2727&sideNums=D65108&currStreakLabel=FFFFFF&dates=FFFFFF"></a> |
 | Trophies | [![trophy](https://github-profile-trophy.vercel.app/?username=andrewalba&theme=dark_lover&column=4&no-frame=true&margin-h=15&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy) |
 
 ## General ideology across projects
